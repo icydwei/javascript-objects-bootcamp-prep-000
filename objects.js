@@ -1,4 +1,4 @@
 var playlist = {
-  JustinBieber: "Baby"
+  JustinBieber: "Baby",
   Usher: "Yeah"
 }
